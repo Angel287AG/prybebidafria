@@ -7,7 +7,7 @@ namespace prybebidafria
 {
     internal class bebida_caliente: bebidas
     {
-        private float Temperatura;
+        private float Temperatura; 
         public float temperatura
         {
             get { return Temperatura; }

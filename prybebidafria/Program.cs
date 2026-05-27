@@ -37,7 +37,7 @@
 
 
 
-            Console.WriteLine("\nPresiona cualquier tecla para salir...");
+            Console.WriteLine("\nPresiona cualquier tecla para salir");
             Console.ReadKey();
         }
     }

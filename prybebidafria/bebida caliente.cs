@@ -20,7 +20,7 @@ namespace prybebidafria
 
         public override string Prepararbebida()
         {
-            return "Estamos preparando un " + Nombre + "con temperatura de:" + Temperatura+"c" + " tamaño:"+ Tamaño;
+            return "Estamos preparando un " + Nombre + " con temperatura de:" + Temperatura+"c" + " tamaño:"+ Tamaño;
         }
     }
 }
